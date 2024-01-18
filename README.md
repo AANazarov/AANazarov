@@ -1,10 +1,14 @@
-### Hello!
+### *About me*
 
-# *About me*
+Hello!
 
-I'm Alexander Nazarov, an engineer and analyst.
+I am Alexander Nazarov, an engineer and analyst.<p>
+I specialize in data science, applied statistics and analysis, data modelling.<p>
 
-I specialize in data science, applied statistics and analysis.
+### *Tools*
+* Language: Python, R
+* Database: MySQL
+* Mathsoft: Maxima, Scilab, Greatl
 
 
 <!--
