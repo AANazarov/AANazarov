@@ -1,22 +1,22 @@
 ### ***About me***
-***
 
 Hello!
 
 I am Alexander Nazarov, an engineer and analyst.
 I specialize in data science, applied statistics and analysis, data modelling.<p>
+***
 
 ### ***Tools***
-***
 * Language: Python, R
 * Database: MySQL
 * Mathsoft: Maxima, Scilab, Greatl
+***
 
 ### ***Connect with Me***
-***
 * E-mail: alnazarov.work@gmail.com
 * https://habr.com/ru/users/ANazarov/
 * https://www.kaggle.com/alnazarov
+***
 
 <!--
 **AANazarov/AANazarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
