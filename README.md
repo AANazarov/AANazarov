@@ -2,7 +2,7 @@
 
 Hello!
 
-I am Alexander Nazarov, an engineer and analyst.
+I am Alexander A. Nazarov, an engineer and analyst.
 I specialize in data science, applied statistics and analysis, data modelling.<p>
 ***
 
