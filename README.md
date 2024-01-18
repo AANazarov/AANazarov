@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+I'm Alexander Nazarov, an engineer and analyst.
+I specialize in data science, applied statistics and analysis.
 
 <!--
 **AANazarov/AANazarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
