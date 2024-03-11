@@ -8,7 +8,7 @@ I specialize in data science, applied statistics and analysis, data modelling.<p
 
 ### ***Tools***
 * Language: Python, R
-* Database: MySQL
+* Database: PostgreSQL
 * Mathsoft: Maxima, Scilab, Greatl
 ***
 
